@@ -1,1 +1,1 @@
-# esaicog
+# EASI-COG Repository
